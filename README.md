@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, I'm Ivan, fron Russia 👋 
+I'm I'm a web-engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include Vue JS, Laravel, Bitrix. I know vanilla JS, Wordpress, Joomla, Drupal. I can create web-server with proxmox ve and web-services like nginx, gitlab.a web-developer who is passionate about making git
+
+## Find me around the web 🌎:
+- Tinkering with interactions on <a href="https://codepen.io/Shturmavik/">Codepen</a> 🏓
 
 <!--
 **shturmavik/shturmavik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
