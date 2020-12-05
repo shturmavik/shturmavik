@@ -3,6 +3,7 @@ I'm I'm a web-engineer who is passionate about making open-source more accessibl
 
 ## Find me around the web 🌎:
 - Tinkering with interactions on <a href="https://codepen.io/Shturmavik/">Codepen</a> 🏓
+- [Telegram](https://t.me/Shturmavik)
 
 <!--
 **shturmavik/shturmavik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
